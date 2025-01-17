@@ -67,8 +67,8 @@ Let’s make building React apps as fun as playing with koalas. 🐨🎉
 
 ## Follow Along 📲
 
-- [GitHub Repository](https://github.com/your-username/koalajs)
-- [Koala JS Docs](https://koalajs.dev) _(coming soon!)_
+- [GitHub Repository](https://github.com/Innvesio/Koalajs.git)
+<!-- - [Koala JS Docs](https://koalajs.dev) _(coming soon!)_ -->
 
 ---
 
